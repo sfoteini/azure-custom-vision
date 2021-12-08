@@ -13,3 +13,7 @@
 In this article, we will build and deploy a festive Custom Vision object detection model to help the Christmas elves find Santa Claus.
 
 <br>
+
+---------
+
+*Dataset Images source: [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/)*
