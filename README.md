@@ -61,3 +61,13 @@ In this article, you will build and deploy an image classification model for ide
 In this article, you will learn how to export a Custom Vision model in TensorFlow format for use with Python apps.
 
 <br>
+
+## Export a Custom Vision model using the Python SDK
+<p>
+  <a href="https://sfoteini.github.io/blog/export-a-custom-vision-model-using-the-python-sdk/" target="_blank"><img src="https://img.shields.io/badge/Instructions-informational?style=for-the-badge" alt="Tutorial"></a>
+  <a href="export-model-python/export_model.py" target="_blank"><img src="https://img.shields.io/badge/Python App-critical?style=for-the-badge" alt="Source code"></a>
+</p>
+
+In this article, you will learn how to export a Custom Vision model programmatically using the Python client library.
+
+<br>
